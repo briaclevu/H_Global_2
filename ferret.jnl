@@ -1,0 +1,9 @@
+ ! NOAA/PMEL TMAP
+ ! FERRET v6.724  
+ ! Linux 2.6.32-220.2.1.el6.x86_64 64-bit - 02/09/12
+ !  9-Oct-14 10:44     
+
+GO "$HOME/.ferret"
+use "http://dods.idris.fr/rfry451/ORCA025-PIS2DIC/MBG/Output/MO/ORCA025-PIS2DIC_20000101_20001231_1M_PO4.nc"
+use "http://dods.idris.fr/rfry451/ORCA025-PIS2DIC/MBG/Output/MO/ORCA025-PIS2DIC_20000101_20001231_1M_PO4.nc"
+exit
